@@ -6,7 +6,7 @@ This resource replaces [DRP_Clothing](https://github.com/OfficialDarkzy/DRP-ID) 
 
 1. Execute the provided SQL file `character_appearance.sql`
 2. Disable `drp_clothing` from your `server.cfg` file
-3. Download and install [fivem-appearance](https://github.com/snakewiz/fivem-appearance)
+3. Download and install [fivem-appearance](https://github.com/snakewiz/fivem-appearance) - FOLLOW THEIR INSTRUCTIONS - You need to download from the release section.
 4. Download and unzip this repo into the folder `bpc-character-customize`
 5. Add the following to your `server.cfg`
 
