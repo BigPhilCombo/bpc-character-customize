@@ -17,7 +17,7 @@ ensure fivem-appearance
 ensure bpc-character-customize
 ```
 
-## Faq 🤡
+## FAQ 🤡
 
 ### Does this work with ESX?
 
